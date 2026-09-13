@@ -1,0 +1,204 @@
+Transaction_ID,Customer_ID,Transaction_Date,Product_ID,Product_Name,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,City,Device_Type,Customer_Rating
+T00001,C041,2026-02-27,P113,Coffee Maker,Home Appliances,1,4200,4200,UPI,Kolkata,Mobile,5
+T00002,C028,2026-03-01,P102,Wireless Mouse,Electronics,3,1200,3600,Cash on Delivery,Hyderabad,Tablet,2
+T00003,C046,2026-04-18,P109,Backpack,Accessories,1,1800,1800,Net Banking,Tadepalligudem,Laptop,1
+T00004,C049,2026-04-19,P112,Jeans,Fashion,2,1800,3600,Debit Card,Visakhapatnam,Mobile,3
+T00005,C007,2026-08-05,P103,Keyboard,Electronics,2,1800,3600,Cash on Delivery,Bengaluru,Mobile,4
+T00006,C035,2026-05-22,P110,Running Shoes,Fashion,2,3500,7000,Cash on Delivery,Mumbai,Tablet,2
+T00007,C046,2026-01-21,P105,Earphones,Electronics,1,1500,1500,UPI,Pune,Laptop,4
+T00008,C041,2026-04-05,P103,Keyboard,Electronics,2,1800,3600,Credit Card,Bengaluru,Tablet,1
+T00009,C039,2026-07-06,P109,Backpack,Accessories,1,1800,1800,Credit Card,Delhi,Laptop,3
+T00010,C041,2026-06-25,P104,Smartphone,Electronics,2,25000,50000,UPI,Chennai,Mobile,3
+T00011,C026,2026-08-13,P106,Smart Watch,Electronics,3,4500,13500,Debit Card,Chennai,Tablet,4
+T00012,C026,2026-04-28,P111,T-Shirt,Fashion,1,900,900,Debit Card,Visakhapatnam,Mobile,5
+T00013,C035,2026-04-03,P111,T-Shirt,Fashion,1,900,900,Credit Card,Kolkata,Laptop,1
+T00014,C049,2026-06-10,P102,Wireless Mouse,Electronics,1,1200,1200,Net Banking,Tadepalligudem,Mobile,4
+T00015,C025,2026-05-16,P108,USB Cable,Accessories,2,500,1000,Cash on Delivery,Hyderabad,Tablet,1
+T00016,C044,2026-03-10,P113,Coffee Maker,Home Appliances,3,4200,12600,Debit Card,Vijayawada,Laptop,4
+T00017,C011,2026-08-13,P112,Jeans,Fashion,3,1800,5400,Debit Card,Kolkata,Mobile,5
+T00018,C007,2026-08-04,P105,Earphones,Electronics,3,1500,4500,Cash on Delivery,Tadepalligudem,Mobile,2
+T00019,C024,2026-07-19,P109,Backpack,Accessories,3,1800,5400,UPI,Tadepalligudem,Laptop,4
+T00020,C002,2026-03-03,P114,Electric Kettle,Home Appliances,1,2200,2200,Credit Card,Tadepalligudem,Mobile,1
+T00021,C047,2026-07-14,P102,Wireless Mouse,Electronics,3,1200,3600,Credit Card,Visakhapatnam,Tablet,4
+T00022,C036,2026-08-26,P110,Running Shoes,Fashion,3,3500,10500,Credit Card,Bengaluru,Laptop,3
+T00023,C029,2026-01-31,P108,USB Cable,Accessories,1,500,500,Credit Card,Vijayawada,Laptop,1
+T00024,C038,2026-02-26,P110,Running Shoes,Fashion,1,3500,3500,UPI,Hyderabad,Mobile,1
+T00025,C003,2026-05-12,P102,Wireless Mouse,Electronics,1,1200,1200,Debit Card,Delhi,Mobile,5
+T00026,C009,2026-05-27,P115,Bluetooth Speaker,Electronics,3,3000,9000,Net Banking,Chennai,Laptop,4
+T00027,C013,2026-04-19,P111,T-Shirt,Fashion,2,900,1800,Net Banking,Hyderabad,Tablet,1
+T00028,C004,2026-03-05,P113,Coffee Maker,Home Appliances,1,4200,4200,Credit Card,Kolkata,Laptop,2
+T00029,C028,2026-08-12,P110,Running Shoes,Fashion,1,3500,3500,Net Banking,Kolkata,Mobile,1
+T00030,C042,2026-01-04,P114,Electric Kettle,Home Appliances,1,2200,2200,Credit Card,Visakhapatnam,Laptop,4
+T00031,C031,2026-02-12,P110,Running Shoes,Fashion,2,3500,7000,UPI,Pune,Laptop,4
+T00032,C019,2026-02-18,P110,Running Shoes,Fashion,2,3500,7000,Credit Card,Hyderabad,Tablet,5
+T00033,C004,2026-01-13,P101,Laptop,Electronics,3,55000,165000,Net Banking,Kolkata,Tablet,2
+T00034,C004,2026-08-06,P102,Wireless Mouse,Electronics,1,1200,1200,UPI,Tadepalligudem,Mobile,2
+T00035,C026,2026-06-02,P106,Smart Watch,Electronics,1,4500,4500,Cash on Delivery,Vijayawada,Laptop,5
+T00036,C037,2026-03-08,P115,Bluetooth Speaker,Electronics,1,3000,3000,Debit Card,Chennai,Laptop,4
+T00037,C009,2026-04-28,P105,Earphones,Electronics,2,1500,3000,UPI,Hyderabad,Laptop,5
+T00038,C037,2026-05-18,P102,Wireless Mouse,Electronics,1,1200,1200,Cash on Delivery,Bengaluru,Mobile,3
+T00039,C005,2026-03-14,P106,Smart Watch,Electronics,1,4500,4500,Net Banking,Kolkata,Tablet,3
+T00040,C040,2026-06-17,P113,Coffee Maker,Home Appliances,3,4200,12600,UPI,Kolkata,Laptop,1
+T00041,C009,2026-03-11,P102,Wireless Mouse,Electronics,2,1200,2400,Cash on Delivery,Chennai,Tablet,3
+T00042,C014,2026-03-09,P114,Electric Kettle,Home Appliances,3,2200,6600,Net Banking,Bengaluru,Mobile,1
+T00043,C041,2026-01-01,P113,Coffee Maker,Home Appliances,2,4200,8400,Credit Card,Bengaluru,Mobile,4
+T00044,C036,2026-01-03,P109,Backpack,Accessories,1,1800,1800,UPI,Visakhapatnam,Tablet,1
+T00045,C024,2026-04-21,P103,Keyboard,Electronics,1,1800,1800,UPI,Bengaluru,Laptop,1
+T00046,C023,2026-01-27,P106,Smart Watch,Electronics,2,4500,9000,Cash on Delivery,Pune,Tablet,2
+T00047,C016,2026-07-27,P113,Coffee Maker,Home Appliances,1,4200,4200,Net Banking,Hyderabad,Mobile,3
+T00048,C027,2026-07-08,P114,Electric Kettle,Home Appliances,1,2200,2200,Debit Card,Visakhapatnam,Tablet,1
+T00049,C025,2026-05-01,P114,Electric Kettle,Home Appliances,1,2200,2200,Credit Card,Delhi,Laptop,3
+T00050,C015,2026-03-26,P105,Earphones,Electronics,2,1500,3000,UPI,Bengaluru,Laptop,5
+T00051,C026,2026-05-18,P114,Electric Kettle,Home Appliances,2,2200,4400,UPI,Vijayawada,Laptop,2
+T00052,C038,2026-01-10,P105,Earphones,Electronics,1,1500,1500,Cash on Delivery,Pune,Laptop,3
+T00053,C028,2026-01-30,P109,Backpack,Accessories,2,1800,3600,Cash on Delivery,Chennai,Laptop,1
+T00054,C046,2026-04-21,P105,Earphones,Electronics,1,1500,1500,Debit Card,Tadepalligudem,Laptop,1
+T00055,C047,2026-03-21,P109,Backpack,Accessories,3,1800,5400,Net Banking,Mumbai,Laptop,3
+T00056,C036,2026-06-23,P111,T-Shirt,Fashion,3,900,2700,Credit Card,Tadepalligudem,Tablet,3
+T00057,C026,2026-03-19,P101,Laptop,Electronics,2,55000,110000,Credit Card,Pune,Tablet,5
+T00058,C042,2026-06-22,P111,T-Shirt,Fashion,1,900,900,Cash on Delivery,Delhi,Tablet,2
+T00059,C043,2026-07-29,P113,Coffee Maker,Home Appliances,1,4200,4200,Debit Card,Chennai,Mobile,2
+T00060,C002,2026-04-27,P110,Running Shoes,Fashion,2,3500,7000,Cash on Delivery,Chennai,Tablet,4
+T00061,C032,2026-06-26,P106,Smart Watch,Electronics,1,4500,4500,UPI,Pune,Mobile,2
+T00062,C045,2026-05-23,P101,Laptop,Electronics,1,55000,55000,UPI,Delhi,Mobile,4
+T00063,C043,2026-06-02,P109,Backpack,Accessories,2,1800,3600,Net Banking,Tadepalligudem,Tablet,5
+T00064,C028,2026-04-25,P109,Backpack,Accessories,1,1800,1800,Net Banking,Delhi,Laptop,2
+T00065,C041,2026-03-12,P110,Running Shoes,Fashion,2,3500,7000,UPI,Bengaluru,Mobile,3
+T00066,C022,2026-02-08,P102,Wireless Mouse,Electronics,1,1200,1200,Net Banking,Visakhapatnam,Tablet,2
+T00067,C005,2026-04-17,P114,Electric Kettle,Home Appliances,1,2200,2200,Credit Card,Pune,Laptop,5
+T00068,C045,2026-01-02,P111,T-Shirt,Fashion,2,900,1800,Debit Card,Pune,Laptop,5
+T00069,C048,2026-06-04,P113,Coffee Maker,Home Appliances,1,4200,4200,Net Banking,Chennai,Laptop,4
+T00070,C032,2026-07-05,P114,Electric Kettle,Home Appliances,1,2200,2200,Net Banking,Visakhapatnam,Tablet,5
+T00071,C002,2026-05-25,P110,Running Shoes,Fashion,3,3500,10500,UPI,Vijayawada,Tablet,4
+T00072,C009,2026-01-13,P103,Keyboard,Electronics,2,1800,3600,Net Banking,Mumbai,Mobile,4
+T00073,C021,2026-07-12,P111,T-Shirt,Fashion,2,900,1800,Debit Card,Vijayawada,Laptop,1
+T00074,C048,2026-02-27,P106,Smart Watch,Electronics,3,4500,13500,UPI,Hyderabad,Mobile,2
+T00075,C013,2026-02-09,P110,Running Shoes,Fashion,1,3500,3500,Credit Card,Delhi,Tablet,1
+T00076,C037,2026-06-29,P108,USB Cable,Accessories,2,500,1000,Debit Card,Visakhapatnam,Tablet,5
+T00077,C048,2026-07-29,P113,Coffee Maker,Home Appliances,1,4200,4200,Debit Card,Vijayawada,Tablet,1
+T00078,C020,2026-04-07,P115,Bluetooth Speaker,Electronics,2,3000,6000,Credit Card,Vijayawada,Tablet,2
+T00079,C007,2026-08-06,P105,Earphones,Electronics,3,1500,4500,Cash on Delivery,Vijayawada,Tablet,1
+T00080,C023,2026-04-05,P111,T-Shirt,Fashion,1,900,900,Cash on Delivery,Mumbai,Mobile,4
+T00081,C032,2026-07-01,P114,Electric Kettle,Home Appliances,1,2200,2200,Net Banking,Visakhapatnam,Tablet,5
+T00082,C042,2026-04-22,P111,T-Shirt,Fashion,3,900,2700,Cash on Delivery,Bengaluru,Laptop,2
+T00083,C006,2026-07-12,P110,Running Shoes,Fashion,2,3500,7000,Cash on Delivery,Tadepalligudem,Tablet,4
+T00084,C022,2026-05-05,P113,Coffee Maker,Home Appliances,1,4200,4200,Debit Card,Bengaluru,Laptop,3
+T00085,C039,2026-05-23,P105,Earphones,Electronics,1,1500,1500,Cash on Delivery,Chennai,Mobile,2
+T00086,C047,2026-05-02,P106,Smart Watch,Electronics,3,4500,13500,Net Banking,Delhi,Mobile,1
+T00087,C019,2026-06-19,P105,Earphones,Electronics,3,1500,4500,Debit Card,Delhi,Tablet,5
+T00088,C023,2026-06-29,P114,Electric Kettle,Home Appliances,2,2200,4400,Debit Card,Bengaluru,Laptop,2
+T00089,C008,2026-01-31,P106,Smart Watch,Electronics,3,4500,13500,Cash on Delivery,Visakhapatnam,Mobile,2
+T00090,C048,2026-05-31,P112,Jeans,Fashion,3,1800,5400,Cash on Delivery,Bengaluru,Mobile,2
+T00091,C019,2026-01-04,P105,Earphones,Electronics,3,1500,4500,Cash on Delivery,Visakhapatnam,Laptop,1
+T00092,C004,2026-02-02,P112,Jeans,Fashion,3,1800,5400,Net Banking,Vijayawada,Mobile,5
+T00093,C019,2026-03-29,P108,USB Cable,Accessories,1,500,500,UPI,Bengaluru,Laptop,1
+T00094,C005,2026-02-08,P101,Laptop,Electronics,1,55000,55000,Cash on Delivery,Bengaluru,Mobile,2
+T00095,C008,2026-06-05,P107,Laptop Bag,Accessories,3,2200,6600,Cash on Delivery,Chennai,Tablet,4
+T00096,C029,2026-08-09,P105,Earphones,Electronics,3,1500,4500,Net Banking,Bengaluru,Tablet,5
+T00097,C004,2026-01-26,P112,Jeans,Fashion,1,1800,1800,Credit Card,Bengaluru,Tablet,1
+T00098,C011,2026-01-01,P102,Wireless Mouse,Electronics,2,1200,2400,Net Banking,Tadepalligudem,Laptop,3
+T00099,C003,2026-01-19,P114,Electric Kettle,Home Appliances,3,2200,6600,Credit Card,Bengaluru,Tablet,5
+T00100,C043,2026-04-19,P104,Smartphone,Electronics,1,25000,25000,Cash on Delivery,Chennai,Tablet,2
+T00101,C018,2026-01-16,P102,Wireless Mouse,Electronics,1,1200,1200,Debit Card,Tadepalligudem,Tablet,5
+T00102,C019,2026-06-29,P111,T-Shirt,Fashion,2,900,1800,Debit Card,Kolkata,Tablet,4
+T00103,C029,2026-07-08,P107,Laptop Bag,Accessories,2,2200,4400,Cash on Delivery,Bengaluru,Mobile,1
+T00104,C015,2026-08-09,P114,Electric Kettle,Home Appliances,3,2200,6600,Cash on Delivery,Hyderabad,Tablet,3
+T00105,C037,2026-05-13,P105,Earphones,Electronics,3,1500,4500,Net Banking,Bengaluru,Mobile,5
+T00106,C028,2026-01-24,P108,USB Cable,Accessories,2,500,1000,Debit Card,Pune,Laptop,3
+T00107,C043,2026-04-16,P105,Earphones,Electronics,3,1500,4500,Net Banking,Bengaluru,Tablet,4
+T00108,C049,2026-01-23,P108,USB Cable,Accessories,2,500,1000,Debit Card,Mumbai,Mobile,4
+T00109,C033,2026-06-18,P101,Laptop,Electronics,3,55000,165000,Net Banking,Pune,Mobile,2
+T00110,C034,2026-07-14,P111,T-Shirt,Fashion,1,900,900,Credit Card,Bengaluru,Tablet,2
+T00111,C019,2026-01-08,P110,Running Shoes,Fashion,3,3500,10500,Cash on Delivery,Chennai,Tablet,2
+T00112,C020,2026-04-15,P109,Backpack,Accessories,1,1800,1800,Credit Card,Vijayawada,Laptop,1
+T00113,C042,2026-08-27,P108,USB Cable,Accessories,3,500,1500,Debit Card,Kolkata,Tablet,3
+T00114,C027,2026-03-04,P108,USB Cable,Accessories,2,500,1000,Cash on Delivery,Visakhapatnam,Laptop,2
+T00115,C039,2026-02-04,P115,Bluetooth Speaker,Electronics,1,3000,3000,Debit Card,Pune,Laptop,5
+T00116,C018,2026-07-05,P105,Earphones,Electronics,2,1500,3000,Cash on Delivery,Tadepalligudem,Tablet,4
+T00117,C010,2026-03-27,P111,T-Shirt,Fashion,3,900,2700,Cash on Delivery,Pune,Laptop,3
+T00118,C013,2026-05-27,P104,Smartphone,Electronics,2,25000,50000,Credit Card,Pune,Mobile,3
+T00119,C048,2026-07-27,P115,Bluetooth Speaker,Electronics,2,3000,6000,Net Banking,Visakhapatnam,Laptop,1
+T00120,C009,2026-03-26,P110,Running Shoes,Fashion,1,3500,3500,Net Banking,Vijayawada,Tablet,4
+T00121,C001,2026-08-11,P107,Laptop Bag,Accessories,3,2200,6600,Credit Card,Vijayawada,Laptop,3
+T00122,C022,2026-06-16,P107,Laptop Bag,Accessories,1,2200,2200,Debit Card,Kolkata,Laptop,3
+T00123,C041,2026-05-05,P113,Coffee Maker,Home Appliances,3,4200,12600,UPI,Tadepalligudem,Mobile,2
+T00124,C041,2026-02-28,P105,Earphones,Electronics,3,1500,4500,UPI,Pune,Mobile,1
+T00125,C029,2026-01-12,P113,Coffee Maker,Home Appliances,2,4200,8400,UPI,Bengaluru,Laptop,3
+T00126,C028,2026-02-13,P110,Running Shoes,Fashion,1,3500,3500,UPI,Tadepalligudem,Laptop,5
+T00127,C044,2026-04-29,P104,Smartphone,Electronics,3,25000,75000,Debit Card,Delhi,Laptop,1
+T00128,C030,2026-05-20,P111,T-Shirt,Fashion,1,900,900,UPI,Delhi,Laptop,5
+T00129,C020,2026-06-26,P107,Laptop Bag,Accessories,2,2200,4400,Net Banking,Bengaluru,Mobile,4
+T00130,C031,2026-05-28,P111,T-Shirt,Fashion,2,900,1800,Debit Card,Hyderabad,Tablet,4
+T00131,C018,2026-08-02,P107,Laptop Bag,Accessories,2,2200,4400,Credit Card,Tadepalligudem,Laptop,2
+T00132,C041,2026-06-10,P113,Coffee Maker,Home Appliances,1,4200,4200,UPI,Bengaluru,Laptop,1
+T00133,C038,2026-08-21,P104,Smartphone,Electronics,2,25000,50000,Debit Card,Pune,Mobile,2
+T00134,C009,2026-04-04,P115,Bluetooth Speaker,Electronics,3,3000,9000,Cash on Delivery,Bengaluru,Mobile,3
+T00135,C031,2026-07-11,P105,Earphones,Electronics,2,1500,3000,UPI,Delhi,Mobile,2
+T00136,C049,2026-06-23,P114,Electric Kettle,Home Appliances,3,2200,6600,Net Banking,Kolkata,Laptop,1
+T00137,C026,2026-04-05,P107,Laptop Bag,Accessories,3,2200,6600,Debit Card,Tadepalligudem,Laptop,3
+T00138,C007,2026-01-07,P108,USB Cable,Accessories,3,500,1500,Cash on Delivery,Mumbai,Tablet,2
+T00139,C042,2026-06-16,P111,T-Shirt,Fashion,2,900,1800,UPI,Visakhapatnam,Mobile,1
+T00140,C020,2026-01-25,P102,Wireless Mouse,Electronics,1,1200,1200,Cash on Delivery,Visakhapatnam,Laptop,4
+T00141,C024,2026-06-28,P112,Jeans,Fashion,3,1800,5400,Net Banking,Tadepalligudem,Tablet,2
+T00142,C027,2026-05-06,P114,Electric Kettle,Home Appliances,3,2200,6600,Net Banking,Bengaluru,Mobile,3
+T00143,C014,2026-01-26,P105,Earphones,Electronics,3,1500,4500,Debit Card,Kolkata,Tablet,3
+T00144,C004,2026-08-06,P104,Smartphone,Electronics,2,25000,50000,UPI,Chennai,Tablet,5
+T00145,C002,2026-02-02,P113,Coffee Maker,Home Appliances,3,4200,12600,Credit Card,Vijayawada,Tablet,2
+T00146,C038,2026-07-18,P105,Earphones,Electronics,1,1500,1500,Cash on Delivery,Hyderabad,Laptop,2
+T00147,C009,2026-02-14,P113,Coffee Maker,Home Appliances,1,4200,4200,UPI,Visakhapatnam,Mobile,3
+T00148,C016,2026-02-14,P101,Laptop,Electronics,2,55000,110000,UPI,Visakhapatnam,Tablet,4
+T00149,C034,2026-04-25,P107,Laptop Bag,Accessories,2,2200,4400,Cash on Delivery,Tadepalligudem,Mobile,4
+T00150,C033,2026-04-28,P103,Keyboard,Electronics,3,1800,5400,UPI,Hyderabad,Laptop,4
+T00151,C028,2026-07-02,P108,USB Cable,Accessories,2,500,1000,UPI,Vijayawada,Laptop,5
+T00152,C010,2026-04-08,P114,Electric Kettle,Home Appliances,3,2200,6600,Cash on Delivery,Bengaluru,Laptop,5
+T00153,C039,2026-04-21,P102,Wireless Mouse,Electronics,2,1200,2400,Credit Card,Pune,Laptop,4
+T00154,C026,2026-04-20,P103,Keyboard,Electronics,2,1800,3600,Debit Card,Mumbai,Mobile,4
+T00155,C005,2026-04-21,P101,Laptop,Electronics,1,55000,55000,Debit Card,Visakhapatnam,Tablet,1
+T00156,C038,2026-03-26,P109,Backpack,Accessories,3,1800,5400,UPI,Pune,Laptop,4
+T00157,C047,2026-04-01,P114,Electric Kettle,Home Appliances,1,2200,2200,Cash on Delivery,Kolkata,Mobile,2
+T00158,C043,2026-01-28,P114,Electric Kettle,Home Appliances,2,2200,4400,Cash on Delivery,Mumbai,Mobile,3
+T00159,C037,2026-06-05,P110,Running Shoes,Fashion,3,3500,10500,Debit Card,Hyderabad,Mobile,3
+T00160,C045,2026-03-28,P115,Bluetooth Speaker,Electronics,2,3000,6000,UPI,Visakhapatnam,Mobile,5
+T00161,C043,2026-06-12,P106,Smart Watch,Electronics,1,4500,4500,UPI,Kolkata,Mobile,4
+T00162,C027,2026-04-05,P103,Keyboard,Electronics,2,1800,3600,Debit Card,Tadepalligudem,Tablet,1
+T00163,C004,2026-03-11,P101,Laptop,Electronics,2,55000,110000,Net Banking,Delhi,Tablet,4
+T00164,C027,2026-04-21,P103,Keyboard,Electronics,1,1800,1800,Debit Card,Tadepalligudem,Laptop,5
+T00165,C043,2026-06-03,P105,Earphones,Electronics,1,1500,1500,UPI,Chennai,Laptop,2
+T00166,C050,2026-03-25,P114,Electric Kettle,Home Appliances,1,2200,2200,UPI,Delhi,Tablet,4
+T00167,C012,2026-05-24,P106,Smart Watch,Electronics,3,4500,13500,Debit Card,Vijayawada,Laptop,1
+T00168,C028,2026-05-28,P103,Keyboard,Electronics,2,1800,3600,Cash on Delivery,Pune,Tablet,4
+T00169,C019,2026-02-13,P103,Keyboard,Electronics,3,1800,5400,Net Banking,Mumbai,Mobile,4
+T00170,C007,2026-04-12,P110,Running Shoes,Fashion,2,3500,7000,Debit Card,Chennai,Laptop,2
+T00171,C005,2026-05-16,P102,Wireless Mouse,Electronics,3,1200,3600,Credit Card,Mumbai,Laptop,2
+T00172,C016,2026-02-14,P113,Coffee Maker,Home Appliances,3,4200,12600,Credit Card,Vijayawada,Mobile,4
+T00173,C030,2026-05-29,P113,Coffee Maker,Home Appliances,2,4200,8400,Cash on Delivery,Tadepalligudem,Laptop,3
+T00174,C010,2026-06-11,P111,T-Shirt,Fashion,2,900,1800,Debit Card,Tadepalligudem,Mobile,3
+T00175,C033,2026-01-10,P111,T-Shirt,Fashion,1,900,900,Debit Card,Bengaluru,Mobile,1
+T00176,C040,2026-04-29,P107,Laptop Bag,Accessories,3,2200,6600,Cash on Delivery,Hyderabad,Laptop,5
+T00177,C042,2026-01-16,P110,Running Shoes,Fashion,2,3500,7000,UPI,Mumbai,Tablet,1
+T00178,C033,2026-03-05,P101,Laptop,Electronics,3,55000,165000,Net Banking,Delhi,Tablet,5
+T00179,C040,2026-04-10,P114,Electric Kettle,Home Appliances,2,2200,4400,Debit Card,Tadepalligudem,Mobile,3
+T00180,C005,2026-03-06,P111,T-Shirt,Fashion,3,900,2700,Cash on Delivery,Visakhapatnam,Laptop,1
+T00181,C038,2026-03-31,P115,Bluetooth Speaker,Electronics,2,3000,6000,Net Banking,Visakhapatnam,Tablet,1
+T00182,C020,2026-07-22,P111,T-Shirt,Fashion,2,900,1800,Credit Card,Kolkata,Mobile,4
+T00183,C033,2026-02-16,P114,Electric Kettle,Home Appliances,1,2200,2200,Debit Card,Delhi,Mobile,2
+T00184,C009,2026-05-10,P113,Coffee Maker,Home Appliances,3,4200,12600,Cash on Delivery,Hyderabad,Tablet,3
+T00185,C050,2026-04-07,P110,Running Shoes,Fashion,1,3500,3500,Credit Card,Visakhapatnam,Tablet,5
+T00186,C011,2026-04-16,P101,Laptop,Electronics,2,55000,110000,Credit Card,Delhi,Tablet,3
+T00187,C049,2026-03-01,P108,USB Cable,Accessories,3,500,1500,Credit Card,Bengaluru,Laptop,2
+T00188,C024,2026-04-23,P110,Running Shoes,Fashion,2,3500,7000,Debit Card,Pune,Tablet,5
+T00189,C027,2026-02-21,P114,Electric Kettle,Home Appliances,3,2200,6600,Credit Card,Bengaluru,Mobile,4
+T00190,C024,2026-07-02,P102,Wireless Mouse,Electronics,3,1200,3600,UPI,Bengaluru,Mobile,2
+T00191,C018,2026-01-24,P105,Earphones,Electronics,1,1500,1500,Net Banking,Mumbai,Mobile,4
+T00192,C004,2026-04-09,P113,Coffee Maker,Home Appliances,1,4200,4200,Debit Card,Chennai,Mobile,3
+T00193,C007,2026-03-27,P111,T-Shirt,Fashion,1,900,900,Credit Card,Hyderabad,Laptop,4
+T00194,C045,2026-06-30,P113,Coffee Maker,Home Appliances,2,4200,8400,Net Banking,Tadepalligudem,Mobile,1
+T00195,C002,2026-08-29,P106,Smart Watch,Electronics,3,4500,13500,Cash on Delivery,Kolkata,Laptop,1
+T00196,C050,2026-01-13,P113,Coffee Maker,Home Appliances,1,4200,4200,Net Banking,Tadepalligudem,Laptop,1
+T00197,C008,2026-06-02,P108,USB Cable,Accessories,3,500,1500,UPI,Kolkata,Tablet,2
+T00198,C046,2026-06-07,P110,Running Shoes,Fashion,2,3500,7000,Credit Card,Tadepalligudem,Laptop,2
+T00199,C043,2026-04-03,P109,Backpack,Accessories,1,1800,1800,Cash on Delivery,Kolkata,Tablet,5
+T00200,C036,2026-06-12,P110,Running Shoes,Fashion,2,3500,7000,Debit Card,Bengaluru,Tablet,1
+T00011,C026,2026-08-13,P106,Smart Watch,Electronics,3,4500,13500,Debit Card,Chennai,Tablet,4
+T00026,C009,2026-05-27,P115,Bluetooth Speaker,Electronics,3,3000,9000,Net Banking,Chennai,Laptop,4
+T00061,C032,2026-06-26,P106,Smart Watch,Electronics,1,4500,4500,UPI,Pune,Mobile,2
