@@ -1,0 +1,13 @@
+/ecommerce
+/ecommerce/input
+/ecommerce/input/ecommerce_transactions.csv
+
+/ecommerce/cleaned
+/ecommerce/cleaned/part-r-00000
+
+/ecommerce/output
+/ecommerce/output/recommendations
+/ecommerce/output/recommendations/000000_0
+
+/ecommerce/output/customer_report
+/ecommerce/output/customer_report/000000_0
